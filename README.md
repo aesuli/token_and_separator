@@ -6,4 +6,4 @@ This is a reference implementation of the Token & Separator evaluation model for
 
 [Click here for open access download](https://openportal.isti.cnr.it/doc?id=people______::25b94ed10f8333c6a7bc65048d693a21)
 
-See [LICENSE.txt](LICENSE.txt) file for the license terms.
+See [LICENSE](LICENSE) file for the license terms.
